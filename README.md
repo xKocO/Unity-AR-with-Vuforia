@@ -1,6 +1,6 @@
 # C-Sharp-Prototypes-
 
-# Agumented Reality with the Vuforia Library
+# Augmented Reality with the Vuforia Library
 
 Some scripts are messier than others since there is a lot from my final Uni project here and i've learned a lot since then but im posting it anyway.
 
