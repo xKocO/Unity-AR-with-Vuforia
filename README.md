@@ -1,6 +1,6 @@
 # Scripts for the AR project made for the "Defensoría de las niñas, niños y adolescentes de la Provincia de Córdoba" 
 
-##  Augmented Reality using the Vuforia Library showing diverse scripts on different minigames and interactions on the unity engine.
+##  Augmented Reality using the Vuforia Library showing diverse scripts on different minigames and interactions on the Unity engine.
 You can find things like:
 - UI interaction and functionality.
 - Physics interactions with objects on the scene working properly on augmented reality.
