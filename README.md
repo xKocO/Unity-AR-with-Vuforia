@@ -1,10 +1,6 @@
 # C-Sharp-Prototypes-
 
-# Augmented Reality with the Vuforia Library
-
-Some scripts are messier than others since there is a lot from my final Uni project here and i've learned a lot since then but im posting it anyway.
-
-## Just a simple repository showing diverse scripts on different minigames and interactions with C# on the unity engine.
+##  Augmented Reality using the Vuforia Library showing diverse scripts on different minigames and interactions on the unity engine.
 You can find things like:
 - UI interaction and functionality.
 - Physics interactions with objects on the scene working properly on augmented reality.
